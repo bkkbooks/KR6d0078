@@ -45,6 +45,7 @@ markers:
   - {type: punctuation, offset: 91, content: ，, id: KR6d0078_X_000-bkkpn23}
   - {type: punctuation, offset: 96, content: 。, id: KR6d0078_X_000-bkkpn24}
   - {type: punctuation, offset: 97, content: ！, id: KR6d0078_X_000-bkkpn25}
+  - {type: substitution, offset: 102, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 106, content: 。, id: KR6d0078_X_000-bkkpn26}
   - {type: line-break, offset: 106, content: '', id: KR6d0078_X_000-0605a11, ed: X, 'n': 0605a11}
   - {type: line-break, offset: 106, content: '', id: KR6d0078_X_000-0057a07, ed: R093, 'n': 0057a07}
@@ -79,6 +80,7 @@ markers:
   - {type: punctuation, offset: 198, content: 。, id: KR6d0078_X_000-bkkpn47}
   - {type: xml-element, offset: 198, content: '', id: pX31p0605a0601_end, name: p, role: close, attrs: {'xml:id': pX31p0605a0601}}
   - {type: xml-element, offset: 198, content: '', id: pX31p0605a1513, name: p, role: open, attrs: {'xml:id': pX31p0605a1513, 'cb:place': inline}}
+  - {type: substitution, offset: 203, original: 譔, replacement: 撰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17718}}
   - {type: xml-element, offset: 204, content: '', id: pX31p0605a1513_end, name: p, role: close, attrs: {'xml:id': pX31p0605a1513, 'cb:place': inline}}
   - {type: line-break, offset: 204, content: '', id: KR6d0078_X_000-0605a16, ed: X, 'n': 0605a16}
   - {type: line-break, offset: 204, content: '', id: KR6d0078_X_000-0605a17, ed: X, 'n': 0605a17}
@@ -101,4 +103,4 @@ markers:
   - {type: line-break, offset: 204, content: '', id: KR6d0078_X_000-0057b01, ed: R093, 'n': 0057b01}
   body: []
   back: []
-hash: sha256:9d7ed04b4cfa05af176e375f74eff6648197aa008380412ed4e59ba98b68060f
+hash: sha256:828289cad6a6fa8317697e0fdd11778b22690e8cfc06acaf3f46b58e7cb6004e
