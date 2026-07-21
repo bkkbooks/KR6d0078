@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6d0078/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 妙法蓮華經序余少時讀普門品觀世音經雖未能深解其義然以意測之曰此佛氏之寓言也昔唐李文公問藥山禪師曰如何是惡風吹船漂落鬼國師曰李翱小子問此何為文公勃然怒形於色師笑曰發此嗔恚心便是黑風吹船飄入鬼國也吁藥師可謂善啟發人矣以是推之則知利欲熾然即是火坑貪愛沈溺便是苦海一念清淨烈焰成池一念驚覺船到彼岸災患纏縛隨寓而安我無畏怖如械自脫惡人侵凌待以橫逆我無忿嫉如獸自奔讀是經者作如是觀則知補陀大士真實為人非浪語者西山真德秀譔
   hash: sha256:31637065a73c56dc357e4f29e3f794e5c2bd8d74b21c4afb2a858b3072b5d1bc
   markers:
   - {type: 序, offset: 0, content: No. 612-A 妙法蓮華經序, id: KR6d0078_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 法華經精解評林
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X31/X31n0612.xml
     old_id: X31n0612
-hash: sha256:2427fc0d36dc49b63530191c6777df605eae8b954a4a1b60b726f330841314eb
+hash: sha256:0aa10e8e6835ece19517d328d1f28b697f68bfa2efacefe2892e7086096b5074

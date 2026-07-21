@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0078_000-X.yaml, hash: 'sha256:2427fc0d36dc49b63530191c6777df605eae8b954a4a1b60b726f330841314eb'}
+  - {seq: 0, filename: KR6d0078_000-X.yaml, hash: 'sha256:0aa10e8e6835ece19517d328d1f28b697f68bfa2efacefe2892e7086096b5074'}
   - {seq: 1, filename: KR6d0078_001-X.yaml, hash: 'sha256:9686d2c6106d7c2f0edc6750283466face00799014015d5d2de0b582ba02dfff'}
   - {seq: 2, filename: KR6d0078_002-X.yaml, hash: 'sha256:ace44e50c07d291d3c28e4b38fdc86d5d642ba8977d84421002b1cc59dbafaa1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0078_000-X.markers.yaml, hash: 'sha256:dc9c7fa2e94326b7da129ca6414dc5af10b58c234b79dc6c89f755b9dc58c43a'}
+  - {seq: 0, role: markers, filename: assets/KR6d0078_000-X.markers.yaml, hash: 'sha256:7aa4df81aed07ee51511d1af8561bf069eb86d8757004c55c61b3a91a3794468'}
   - {seq: 1, role: markers, filename: assets/KR6d0078_001-X.markers.yaml, hash: 'sha256:405a0a6143acdef921a77e6f6fd093047c7bac678d46b9d9d095430ab847f832'}
   - {seq: 2, role: markers, filename: assets/KR6d0078_002-X.markers.yaml, hash: 'sha256:4cfc8ac115d9adc6202e7f3711dcad3ce6834280b36db00fed307693c73d3181'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0078_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 612-A 妙法蓮華經序
@@ -347,4 +347,4 @@ table_of_contents:
   label: 普賢菩薩勸發品第二十八
   type: mulu
   level: 1
-hash: sha256:6a63560c438140253f16b4acbedbffac1d3517ebe519e9d7097b7ed86467f484
+hash: sha256:cf72b04e52bce751aea9793f157a26e9c17d02ee591a89a07acc297534084c4b
